@@ -1,7 +1,7 @@
 {
   "token":"sxy97",
-  "appID":"wx6ebae04924c6cabb",
-  "appScrect":"ecd21c956ebadfa0c0729aa7a6f53eba",
+  "appID":"wx**********abb",
+  "appScrect":"ecd***************eba",
   "apiDomain":"https://api.weixin.qq.com/",
   "apiURL":{
     "accessTokenApi":"%scgi-bin/token?grant_type=client_credential&appid=%s&secret=%s",
